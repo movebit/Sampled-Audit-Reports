@@ -2,6 +2,8 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| MovEX Contract Audit Report        | Apr 2023 |     Sui     |
+| SuiPad Contract Audit Report        | Apr 2023 |     Sui     |
 | Aries Market Sui Contracts Audit Report        | Apr 2023 |     Sui     |
 | Mini Miners Contract Audit Report        | Apr 2023 |     Sui     |     [📝](./Mini-Miners-Contract-Audit.pdf)          |
 | Cetus Concentrated Liquidity Protocol Sui Contract Audit Report        | Mar 2023 |     Sui     |
