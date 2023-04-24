@@ -3,6 +3,7 @@
 | Audit Name                        | Date     |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | MovEX        | Apr 2023 |     Sui     |
+| Msafe        | Apr 2023 |     Sui     |
 | SuiPad        | Apr 2023 |     Sui     |
 | Aries Market(Sui)        | Apr 2023 |     Sui     |
 | Mini Miners        | Apr 2023 |     Sui     |     [📝](./Mini-Miners-Contract-Audit.pdf)          |
