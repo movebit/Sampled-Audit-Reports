@@ -7,7 +7,7 @@
 | SuiPad        |     Sui     |
 | Aries Market(Sui)        |     Sui     |
 | Mini Miners        |     Sui     |     [📝](./Mini-Miners-Contract-Audit.pdf)          |
-| Cetus Concentrated Liquidity Protocol(Sui)        |     Sui     |
+| Cetus Concentrated Liquidity Protocol(Sui)        |     Sui     |     [📝](./Cetus-Concentrated-Liquidity-Protocol-Sui-Contract-Audit-Report.pdf)
 | Mokshya/Wapal Aptos NFT Mint Smart        |     Aptos     |     [📝](./Mokshya-Wapal-Aptos-NFT-Mint-Smart-Contract-Audit.pdf)          |
 | PatronusFi        |     Aptos     |     [📝](./PatronusFi-Contract-Audit-Report.pdf)          |
 | Aries Market(Aptos)        |     Aptos     |     [📝](./Aries-Market-Contracts-Audit-Report.pdf)          |
