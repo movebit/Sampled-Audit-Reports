@@ -2,6 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| KriyaDEX        |     Sui     |     [📝](./KriyaDEX-Smart-Contract-Audit-Report.pdf)          |
 | MovEX        |     Sui     |
 | Msafe        |     Sui     |
 | SuiPad        |     Sui     |
