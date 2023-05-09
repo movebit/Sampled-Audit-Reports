@@ -3,10 +3,11 @@
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
 | KriyaDEX        |     Sui     |     [📝](./KriyaDEX-Smart-Contract-Audit-Report.pdf)          |
-| MovEX        |     Sui     |
-| Msafe        |     Sui     |
-| SuiPad        |     Sui     |
-| Aries Market(Sui)        |     Sui     |
+| MovEX        |     Sui     |     Coming Soon
+| Msafe        |     Sui     |     Coming Soon
+| SuiPad        |     Sui     |     Coming Soon
+| Aries Market(Sui)        |     Sui     |     Coming Soon
+| Vimverse        |     Sui     |     Coming Soon
 | Mini Miners        |     Sui     |     [📝](./Mini-Miners-Contract-Audit.pdf)          |
 | Cetus Concentrated Liquidity Protocol(Sui)        |     Sui     |     [📝](./Cetus-Concentrated-Liquidity-Protocol-Sui-Contract-Audit-Report.pdf)
 | Mokshya/Wapal Aptos NFT Mint Smart        |     Aptos     |     [📝](./Mokshya-Wapal-Aptos-NFT-Mint-Smart-Contract-Audit.pdf)          |
