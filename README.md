@@ -2,11 +2,11 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| Suia        |     Sui     |     Coming Soon
-| Typus         |     Sui     |     Coming Soon
+| Suia        |     Sui     |     [📝](./Suia-Smart-Contract-Audit-Report.pdf)          |
+| Typus         |     Sui     |     [📝](./Typus-Finance-Smart-Contract-Audit-Report.pdf)          |
 | Navi        |     Sui     |     Coming Soon
 | KriyaDEX        |     Sui     |     [📝](./KriyaDEX-Smart-Contract-Audit-Report.pdf)          |
-| MovEX        |     Sui     |     Coming Soon
+| MovEX        |     Sui     |     [📝](./MovEx-Smart-Contract-Audit-Report.pdf)          |
 | Msafe        |     Sui     |     Coming Soon
 | SuiPad        |     Sui     |     Coming Soon
 | Aries Market(Sui)        |     Sui     |     Coming Soon
