@@ -2,6 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| LuckyKat        |     Sui     |     [📝](./reports/LuckyKat-Koban-Smart-Contract-Audit-Report.pdf)          |
 | Suia        |     Sui     |     [📝](./reports/Suia-Smart-Contract-Audit-Report.pdf)          |
 | Typus         |     Sui     |     [📝](./reports/Typus-Finance-Smart-Contract-Audit-Report.pdf)          |
 | Navi        |     Sui     |     Coming Soon
@@ -26,5 +27,4 @@
 | Starcoin Framework DAO        |     Starcoin     |     [📝](./reports/Starcoin-Framework-DAO-Audit-Report.pdf)          |
 | Starcoin Framework        |     Starcoin     |     [📝](./reports/Starcoin-Framework-Audit-Report.pdf)          |
 | MoveVM        |     Aptos / Sui / Starcoin     |             |
-
 
