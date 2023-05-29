@@ -8,10 +8,10 @@
 | Navi        |     Sui     |     Coming Soon
 | KriyaDEX        |     Sui     |     [📝](./reports/KriyaDEX-Smart-Contract-Audit-Report.pdf)          |
 | MovEX        |     Sui     |     [📝](./reports/MovEx-Smart-Contract-Audit-Report.pdf)          |
-| Msafe        |     Sui     |     Coming Soon
-| SuiPad        |     Sui     |     Coming Soon
+| MSafe Maven        |     Sui     |     [📝](./reports/Maven-Smart-Contract-Audit-Report.pdf)          |
+| SuiPad        |     Sui     |     [📝](./reports/SuiPad-Smart-Contract-Audit-Report.pdf)          |
 | Aries Market(Sui)        |     Sui     |     Coming Soon
-| Vimverse        |     Sui     |     Coming Soon
+| Vimverse        |     Sui     |     [📝](./reports/Vimverse-Smart-Contract-Audit-Report.pdf)          |
 | Mini Miners        |     Sui     |     [📝](./reports/Mini-Miners-Contract-Audit.pdf)          |
 | Cetus Concentrated Liquidity Protocol(Sui)        |     Sui     |     [📝](./reports/Cetus-Concentrated-Liquidity-Protocol-Sui-Contract-Audit-Report.pdf)
 | Mokshya/Wapal Aptos NFT Mint Smart        |     Aptos     |     [📝](./reports/Mokshya-Wapal-Aptos-NFT-Mint-Smart-Contract-Audit.pdf)          |
