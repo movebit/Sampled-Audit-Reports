@@ -2,7 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| Lucky Kat        |     Sui     |     [📝](./reports/LuckyKat-Koban-Smart-Contract-Audit-Report.pdf)          |
+| Lucky Kat        |     Sui     |     <a href="./reports/LuckyKat-Koban-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Suia        |     Sui     |     [📝](./reports/Suia-Smart-Contract-Audit-Report.pdf)          |
 | Typus         |     Sui     |     [📝](./reports/Typus-Finance-Smart-Contract-Audit-Report.pdf)          |
 | Navi        |     Sui     |     Coming Soon
