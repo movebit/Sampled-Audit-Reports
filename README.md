@@ -2,7 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| Mugen Games        |     Sui     |     <a href="./reports/Mugen-Games-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
+| Mugen Games        |     Sui     |     Coming Soon
 | Lucky Kat        |     Sui     |     <a href="./reports/LuckyKat-Koban-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Suia        |     Sui     |     <a href="./reports/Suia-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Typus         |     Sui     |     <a href="./reports/Typus-Finance-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
