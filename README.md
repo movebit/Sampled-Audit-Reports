@@ -3,7 +3,6 @@
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
 | Legend of Arcadia        |     Sui     |     <a href="./reports/Legend-of-Arcadia-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Mugen Games        |     Sui     |     Coming Soon
 | Lucky Kat        |     Sui     |     <a href="./reports/LuckyKat-Koban-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Suia        |     Sui     |     <a href="./reports/Suia-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Typus         |     Sui     |     <a href="./reports/Typus-Finance-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
