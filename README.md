@@ -2,12 +2,12 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| Bucket        |     Sui     |     <a href="./reports/Bucket-Protocol-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Bucket Protocol       |     Sui     |     <a href="./reports/Bucket-Protocol-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Turbos Finance-TurboStar        |     Sui     |     <a href="./reports/TurboStar-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Legend of Arcadia        |     Sui     |     <a href="./reports/Legend-of-Arcadia-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Lucky Kat        |     Sui     |     <a href="./reports/LuckyKat-Koban-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Suia        |     Sui     |     <a href="./reports/Suia-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
-| Typus         |     Sui     |     <a href="./reports/Typus-Finance-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
+| Typus Finance        |     Sui     |     <a href="./reports/Typus-Finance-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Navi        |     Sui     |     Coming Soon
 | KriyaDEX        |     Sui     |     <a href="./reports/KriyaDEX-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | MovEX        |     Sui     |     <a href="./reports/MovEx-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
