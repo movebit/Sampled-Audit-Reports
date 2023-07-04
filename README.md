@@ -2,6 +2,8 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| Scallop       |     Sui     |     <a href="./reports/Scallop-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Talofa Corporation       |     Sui     |     <a href="./reports/Talofa-Corporation-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Bucket Protocol       |     Sui     |     <a href="./reports/Bucket-Protocol-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Turbos Finance-TurboStar        |     Sui     |     <a href="./reports/TurboStar-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Legend of Arcadia        |     Sui     |     <a href="./reports/Legend-of-Arcadia-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
