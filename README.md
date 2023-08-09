@@ -10,12 +10,12 @@
 | Lucky Kat        |     Sui     |     <a href="./reports/LuckyKat-Koban-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Suia        |     Sui     |     <a href="./reports/Suia-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Typus Finance        |     Sui     |     <a href="./reports/Typus-Finance-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
-| Navi        |     Sui     |     Coming Soon
+| Navi        |     Sui     |     <a href="./reports/Navi-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | KriyaDEX        |     Sui     |     <a href="./reports/KriyaDEX-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | MovEX        |     Sui     |     <a href="./reports/MovEx-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | MSafe Maven        |     Sui     |     <a href="./reports/Maven-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | SuiPad        |     Sui     |     <a href="./reports/SuiPad-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
-| Aries Market(Sui)        |     Sui     |     Coming Soon
+| Aries Market(Sui)        |     Sui     |     <a href="./reports/Aries-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Vimverse        |     Sui     |     <a href="./reports/Vimverse-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Mini Miners        |     Sui     |     <a href="./reports/Mini-Miners-Contract-Audit.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Cetus Concentrated Liquidity Protocol(Sui)        |     Sui     |     <a href="./reports/Cetus-Concentrated-Liquidity-Protocol-Sui-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
