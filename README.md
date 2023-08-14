@@ -16,7 +16,6 @@
 | MSafe Maven        |     Sui     |     <a href="./reports/Maven-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | SuiPad        |     Sui     |     <a href="./reports/SuiPad-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Aries Market(Sui)        |     Sui     |     <a href="./reports/Aries-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Vimverse        |     Sui     |     <a href="./reports/Vimverse-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Mini Miners        |     Sui     |     <a href="./reports/Mini-Miners-Contract-Audit.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Cetus Concentrated Liquidity Protocol(Sui)        |     Sui     |     <a href="./reports/Cetus-Concentrated-Liquidity-Protocol-Sui-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Mokshya/Wapal Aptos NFT Mint Smart        |     Aptos     |     <a href="./reports/Mokshya-Wapal-Aptos-NFT-Mint-Smart-Contract-Audit.pdf"><img width="20" src="./pdf.png" /></a>          |
