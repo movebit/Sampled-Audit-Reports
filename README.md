@@ -2,6 +2,13 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| Cellana      |     Aptos     |     <a href="https://movebit.xyz/reports/Cellana-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Streamflow      |     Aptos     |     <a href="http://movebit.xyz/reports/StreamFlow2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Merkle       |     Aptos     |     <a href="https://movebit.xyz/reports/Merkle-Trade-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Amnis       |     Aptos     |     Coming soon
+| Trufin       |     Aptos     |     Coming soon
+| Pontem      |     Aptos     |     Coming soon
+| Superposition       |     Aptos     |     <a href="http://movebit.xyz/reports/Superposition-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Dola Protocol       |     Sui     |     <a href="https://movebit.xyz/reports/Dola-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Cetus Farming Smart Contract       |     Sui     |     <a href="https://movebit.xyz/reports/Cetus-Farming-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | vibrantX      |     Aptos     |     <a href="https://movebit.xyz/reports/vibrantX-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
