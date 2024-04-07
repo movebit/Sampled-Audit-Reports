@@ -3,7 +3,7 @@
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
 | Cellana Smart Contract      |     Aptos     |     <a href="https://movebit.xyz/reports/Cellana-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| StreamFlow      |     Aptos     |     <a href="http://movebit.xyz/reports/StreamFlow2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| StreamFlow2      |     Aptos     |     <a href="http://movebit.xyz/reports/StreamFlow2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Merkle Trade Smart Contract       |     Aptos     |     <a href="https://movebit.xyz/reports/Merkle-Trade-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Amnis       |     Aptos     |     <a href="https://movebit.xyz/reports/Amnis-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Trufin       |     Aptos     |     Coming soon
