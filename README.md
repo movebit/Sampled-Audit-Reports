@@ -12,7 +12,6 @@
 | Dola Protocol       |     Sui     |     <a href="https://movebit.xyz/reports/Dola-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Cetus Farming Smart Contract       |     Sui     |     <a href="https://movebit.xyz/reports/Cetus-Farming-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | vibrantX      |     Aptos     |     <a href="https://movebit.xyz/reports/vibrantX-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Cellana Smart Contract     |     Aptos     |     <a href="https://movebit.xyz/reports/Cellana-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Fluidity     |     Sui     |     <a href="https://movebit.xyz/reports/Fluidity-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Random-Vault     |     Sui     |     <a href="http://movebit.xyz/reports/Random-Vault-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Scallop       |     Sui     |     <a href="./reports/Scallop-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
