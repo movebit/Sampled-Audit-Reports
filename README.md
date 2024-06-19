@@ -2,12 +2,27 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| Haedal      |     Sui     |     <a href="https://movebit.xyz/reports/Haedal-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Supra      |     Aptos     |     <a href="https://movebit.xyz/reports/Supra-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Volo      |     Sui     |     <a href="https://movebit.xyz/reports/Volo-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Aftermath Finance      |     Sui     |     <a href="https://movebit.xyz/reports/Aftermath-Finance-Liquid-Staking-Derivative-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| TRIAS      |     Polygon     |     <a href="https://movebit.xyz/reports/Trias-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Baptswap      |     Aptos     |     <a href="https://movebit.xyz/reports/BAPTSWAP-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Liquidswap      |     Aptos     |     <a href="https://movebit.xyz/reports/Pontem-Liquidity-Swap-Formal-Verification-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| MoveGPT      |     Aptos     |     <a href="https://movebit.xyz/reports/MoveGPT-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Kana Labs      |     Sui     |     <a href="https://movebit.xyz/reports/Kanalabs-aggregator-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| AbyssWorld      |     Polygon     |     <a href="https://movebit.xyz/reports/Abyss-World-Token-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| ABEx Finance      |     Sui     |     <a href="https://movebit.xyz/reports/Abex-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| FlowX Finance      |     Sui     |     <a href="https://movebit.xyz/reports/FlowX-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Kuna Labs      |     Sui     |     <a href="https://movebit.xyz/reports/Yield-Optimizer-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| DegenHive      |     Sui     |     Coming soon
+| Mirage      |     Aptos     |     Coming soon
 | Cellana Smart Contract      |     Aptos     |     <a href="https://movebit.xyz/reports/Cellana-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| StreamFlow2      |     Aptos     |     <a href="http://movebit.xyz/reports/StreamFlow2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| StreamFlow      |     Aptos     |     <a href="http://movebit.xyz/reports/StreamFlow2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Merkle Trade Smart Contract       |     Aptos     |     <a href="https://movebit.xyz/reports/Merkle-Trade-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Amnis       |     Aptos     |     <a href="https://movebit.xyz/reports/Amnis-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Trufin       |     Aptos     |     Coming soon
-| Pontem      |     Aptos     |     Coming soon
+| Pontem      |     Aptos     |     <a href="https://movebit.xyz/reports/Pontem-Liquidity-Swap-Formal-Verification-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Superposition       |     Aptos     |     <a href="http://movebit.xyz/reports/Superposition-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Dola Protocol       |     Sui     |     <a href="https://movebit.xyz/reports/Dola-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Cetus Farming Smart Contract       |     Sui     |     <a href="https://movebit.xyz/reports/Cetus-Farming-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
@@ -42,5 +57,4 @@
 | Starcoin Poly Bridge STC        |     Starcoin     |     <a href="./reports/Starcoin-Poly-Bridge-STC-Contracts-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Starcoin Framework DAO        |     Starcoin     |     <a href="./reports/Starcoin-Framework-DAO-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Starcoin Framework        |     Starcoin     |     <a href="./reports/Starcoin-Framework-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
-| MoveVM        |     Aptos / Sui / Starcoin     |             |
 
